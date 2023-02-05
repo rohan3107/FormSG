@@ -258,6 +258,7 @@
     "jest-environment-jsdom": "^29.3.1",
     "jest-extended": "^1.2.1",
     "jest-localstorage-mock": "^2.4.25",
+    "jest-watch-typeahead": "^2.2.2",
     "jest-mock-axios": "^4.6.2",
     "lint-staged": "^13.1.0",
     "maildev": "^2.0.5",
