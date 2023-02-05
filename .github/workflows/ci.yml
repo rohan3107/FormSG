@@ -12,7 +12,6 @@ jobs:
     # Set job outputs to values from filter step
     outputs:
       backend: ${{ steps.filter.outputs.backend }}
-      frontend: ${{ steps.filter.outputs.frontend }}
       angularjs: ${{ steps.filter.outputs.angularjs }}
     steps:
       - uses: actions/checkout@v2
